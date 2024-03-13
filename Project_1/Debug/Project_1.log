@@ -1,0 +1,50 @@
+﻿  main.cpp
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(95,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(122,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(129,13): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(214,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(410,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(568,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(625,49): warning C4244: '引數': 將 '__int64' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(886,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(932,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1023,19): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1367,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1478,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1495,11): warning C4566: 由通用字元名稱 '\uFFFD' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1495,11): warning C4566: 由通用字元名稱 '\u01B6' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1498,11): warning C4566: 由通用字元名稱 '\uFFFD' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1498,11): warning C4566: 由通用字元名稱 '\u01A9' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1501,11): warning C4566: 由通用字元名稱 '\uFFFD' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1501,11): warning C4566: 由通用字元名稱 '\u01A4' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(131,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(181,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(194,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(235,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(249,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(309,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(322,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(363,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(377,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(469,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(480,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(505,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(516,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(536,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(547,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(568,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(575,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(609,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(620,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(629,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(661,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(726,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(734,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(742,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(770,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(843,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(855,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(893,15): warning C4566: 由通用字元名稱 '\uFFFD' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\main.cpp(893,15): warning C4566: 由通用字元名稱 '\u29A1' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Project_1\Number.h(1178): warning C4715: 'Number::cmp': 不是所有控制路徑都傳回值
+  Project_1.vcxproj -> C:\Users\david\OneDrive\桌面\台科大\物件導向\Project_1\Debug\Project_1.exe
